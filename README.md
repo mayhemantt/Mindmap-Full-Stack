@@ -2,9 +2,25 @@
 
 
 
+
+
+##Front End MindMap
+
+![Mindmap](./junior.png)
+
+![Mindmap](./middle.png)
+
+![Mindmap](./senior.png)
+
+
+##Full Stack MindMap
+
+![Mindmap](./backend.png)
+
+
 ##Full Stack Mind Map.
 
->. Back-End Basic.
+
 
 [**Back End -Full Stack**](frontenddev.png?raw=true)(image)
 
